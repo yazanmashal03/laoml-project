@@ -4,9 +4,7 @@
 Comparison of regression and classification methods on synthetic datasets.
 
 ## Structure
-- `notebooks/`: Main Jupyter notebook with experiments
-- `src/`: Python modules with reusable functions
-- `results/`: Generated plots and data
+- `notebooks/`: Main Jupyter notebook
 - `description/`: Project requirements
 
 ## Setup
